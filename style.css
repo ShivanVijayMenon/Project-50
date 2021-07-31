@@ -1,0 +1,139 @@
+
+body {
+
+    background-color: beige;
+
+}
+
+.navigation {
+
+	background-color: #2C2E43;
+    overflow: hidden;
+
+}   
+
+.navigation a{
+
+    padding: 15px;
+
+	float: right;
+
+	display: flex;
+    flex-wrap: wrap;
+    flex: auto;
+
+	color: #F0FFFF;
+	text-align: right;
+
+    text-decoration: none;
+	
+	font-family:'LittleLordFontleroyNF';
+
+}
+
+.heading {
+
+    background-color: #FFD523;
+
+    padding : 50px;
+
+    color : whitesmoke;
+
+    text-align: center;
+
+    font-size: xx-large;
+
+}
+
+.introduction {
+
+    background-color: #B2B1B9;
+
+    padding : 10px;
+
+    text-align: center;
+
+    font-family: 'LittleLordFontleroyNF';
+
+    color : whitesmoke;
+
+}
+
+.design{
+
+    padding : 20px;
+
+    width: 250px;
+
+    height: 300px;
+
+    overflow: hidden;
+
+    background-color: #B2B1B9;
+
+    border: solid;
+
+    border-width: 20px;
+
+    border-color: #FFD523;
+    
+    text-align: center;
+
+}
+
+.row1 {
+
+    background-color: #ECEBF3;
+    
+    padding : 50px;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+
+}
+
+.row2 {
+
+    background-color: #ECEBF3;
+    
+    padding : 50px;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+
+}
+
+.images {
+
+    border : solid;
+
+    border-radius: 40px;
+    
+    overflow: hidden;
+
+    justify-content: space-evenly;
+
+    border-color: #B2B1B9;
+
+}
+
+.footer {
+
+    background-color: #2C2E43;
+
+    padding: 20px;
+
+    display: flex;
+
+    flex-wrap: nowrap;
+
+    justify-content: space-around;
+
+}
+
